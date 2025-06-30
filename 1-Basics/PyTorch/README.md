@@ -5,6 +5,8 @@
 - nn Module to make the Training pipeline code easy using Batch Gradient Descent (compute intensive, convergence is very slow :()
 - Dataset and Dataloader clasess with Mini Batch gradient descent is better (10 batchs of 100 rows) - https://github.com/schubhm/LLM/blob/master/1-Basics/PyTorch/dataset_and_dataloader_demo.ipynb
 
+<img width="1251" alt="image" src="https://github.com/user-attachments/assets/686d6032-ab65-4f94-8abd-05e34c48ef98" />
+
 # What is PyTorch?
 
 PyTorch is an open-source deep learning framework developed by Meta's AI Research lab (formerly Facebook AI Research). It serves as a comprehensive machine learning library that provides flexible tools for building, training, and deploying neural networks across a wide range of applications.
