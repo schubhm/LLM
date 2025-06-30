@@ -1,3 +1,9 @@
+# What do we know about Pytorch?
+- Tensors - https://github.com/schubhm/cloud-code.git
+- Autograd differentiation
+- Training pipeline on Breast Cancer Data
+- nn Module to make the Training pipeline code easy
+
 # What is PyTorch?
 
 PyTorch is an open-source deep learning framework developed by Meta's AI Research lab (formerly Facebook AI Research). It serves as a comprehensive machine learning library that provides flexible tools for building, training, and deploying neural networks across a wide range of applications.
