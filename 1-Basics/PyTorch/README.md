@@ -2,7 +2,8 @@
 - Tensors - https://github.com/schubhm/cloud-code.git
 - Autograd differentiation
 - Training pipeline on Breast Cancer Data
-- nn Module to make the Training pipeline code easy
+- nn Module to make the Training pipeline code easy using Batch Gradient Descent (compute intensive, convergence is very slow :()
+- Mini Batch gradient descent is better (10 batchs of 100 rows)
 
 # What is PyTorch?
 
