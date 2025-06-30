@@ -3,7 +3,7 @@
 - Autograd differentiation
 - Training pipeline on Breast Cancer Data
 - nn Module to make the Training pipeline code easy using Batch Gradient Descent (compute intensive, convergence is very slow :()
-- Mini Batch gradient descent is better (10 batchs of 100 rows)
+- Dataset and Dataloader clasess with Mini Batch gradient descent is better (10 batchs of 100 rows) - https://github.com/schubhm/LLM/blob/master/1-Basics/PyTorch/dataset_and_dataloader_demo.ipynb
 
 # What is PyTorch?
 
